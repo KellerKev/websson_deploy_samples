@@ -1,0 +1,7 @@
+export set SNOWPASS=xxx
+export set SNOWUSER=xxx
+export set SNOWACCOUNT=xxx
+export set SNOWDB=xxx
+export set SNOWSCHEMA=xxx
+export set SNOWWH=xxx
+export set SNOWROLE=xxx
